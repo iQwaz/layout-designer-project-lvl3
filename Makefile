@@ -10,6 +10,12 @@ install:
 	npm install jquery --save-dev
 	npm install popper.js --save
 	npm install surge --save-dev
+	npm install htmlhint --save-dev
+	npm install stylelint --save-dev
+	npm install stylelint-config-standard --save-dev
+	npm install stylelint-order --save-dev
+	npm install stylelint-config-rational-order --save-dev
+	npm install stylelint-scss --save-dev
 
 
 # lint:
