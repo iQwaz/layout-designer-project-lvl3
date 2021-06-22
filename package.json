@@ -19,11 +19,20 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
+    "gulp-dart-sass": "^1.0.2",
     "gulp-pug": "^5.0.0",
-    "gulp-svg-sprite": "^1.5.0"
+    "gulp-svg-sprite": "^1.5.0",
+    "htmlhint": "^0.15.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.19.0",
+    "surge": "^0.23.0"
   },
   "dependencies": {
     "@popperjs/core": "^2.9.2",
-    "bootstrap": "^5.0.1"
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.6.0"
   }
 }
